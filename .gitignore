@@ -1,7 +1,0 @@
-/vendor/
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.log
-error_log
