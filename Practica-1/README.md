@@ -9,4 +9,4 @@ La clase `Usuario` gestiona la información básica de un usuario (nombre y corr
 ## Instrucciones de ejecución
 1. Clonar el repositorio.
 2. Mover la carpeta al directorio de un servidor local (XAMPP/Apache).
-3. Acceder a C:\xampp\htdocs\desarrollo-web-avanzado-fimaz-uas\parcial-1-poo\practica-1` desde el navegador.
+3. Acceder a http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-1/index.php desde el navegador.
