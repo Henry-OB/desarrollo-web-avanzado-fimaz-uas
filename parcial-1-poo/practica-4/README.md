@@ -4,9 +4,13 @@
  El objetivo de esta práctica es construir un mini-sistema de Programación Orientada a Objetos (POO) en PHP que simula un examen parcial. Se busca integrar los siguientes conceptos:
  # Encapsulamiento.
  Herencia (Clase base Usuario y clases hijas Admin, Alumno e Invitado).
+ 
  Polimorfismo básico mediante el método getRol() en todas las clases hijas.
+ 
  Validación de datos (verificación de formato de correo electrónico).
+ 
  Manejo de excepciones utilizando bloques try/catch para evitar errores fatales.
+ 
  Salida en HTML organizada en tablas. 
 
  # Requisitos del Entorno
