@@ -1,22 +1,22 @@
 <?php
 require_once 'Usuario.php';
 
-class Invitado extends Usuario {
+class Alumno extends Usuario {
 
-    private $empresa;
+    private $matricula;
 
-    public function __construct($nombre, $correo, $empresa) {
+    public function __construct($nombre, $correo, $matricula) {
 
         parent::__construct($nombre, $correo);
-        $this->empresa = $empresa;
+        $this->matricula = $matricula;
     }
 
-    public function getEmpresa() {
-        return $this->empresa;
+    public function getMatricula() {
+        return $this->matricula;
     }
 
     public function getRol() {
-        return "Invitado";
+        return "Alumno";
     }
 }
 ?>
